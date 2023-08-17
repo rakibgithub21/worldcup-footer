@@ -1,0 +1,91 @@
+main{
+    
+   width: 1600px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 140px;
+    margin-right: 140px;
+    /* margin: auto; */
+    
+}
+
+.marcelo img{
+    width: 581px;
+    height: 613px;
+
+}
+.greatest{
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 50px; */
+    /* width: 1321px; */
+    background: #161616;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    
+}
+.gr-text p{
+    width: 506px;
+    font-size: 16px;
+    font-weight: 400;
+    font-weight: 700;
+    padding-bottom: 50px;
+    padding-top: 0px;
+    color: white;
+}
+.gr-text h2{
+    width: 531px;
+    font-size: 70px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    color: white;
+}
+.gr-text a{
+    text-decoration: none;
+    width: 24px;
+    height: 24px;
+    border-radius: 5px;
+    background: #D00;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: white;
+    font-size: 20px;
+}
+.goals{
+    text-align: center;
+    margin-top: 130px;
+    padding-top: 50px;
+    /* color: white; */
+    
+}
+footer{
+    background-color: #161616;;
+}
+.goals h3{
+    font-size: 40px;
+    color: white;
+}
+footer hr{
+    width: 1320px;
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.footer-link{
+display: flex;
+justify-content: center;
+padding-bottom: 130px;
+}
+.footer-link a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 200px;
+}
